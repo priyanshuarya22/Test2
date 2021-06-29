@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test2</string>
+    <string name="toast">Toast</string>
+    <string name="alert_dialog">Alert Dialog</string>
+    <string name="customise_dialog">Customise Dialog</string>
+    <string name="cancel">Cancel</string>
+    <string name="test_image">Test Image</string>
+</resources>
